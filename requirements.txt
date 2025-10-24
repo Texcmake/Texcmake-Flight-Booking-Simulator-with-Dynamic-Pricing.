@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+# If you decide to use MySQL, add the following line:
+# pymysql
