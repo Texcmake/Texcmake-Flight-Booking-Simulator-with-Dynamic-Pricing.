@@ -19,7 +19,7 @@ This project implements a full-stack flight reservation simulator, focusing on r
 | **Database** | **SQLite** | Simple, file-based SQL database for local persistence. |
 | **Frontend UI** | **Streamlit** | Fast application development framework for the web interface. |
 | **Pricing/Tasks** | **APScheduler** | Handles the background job for simulating demand changes. |
-| **PDF Generation** | **ReportLab** | Library used to structure and generate the e-ticket PDF. |
+
 
 ---
 
